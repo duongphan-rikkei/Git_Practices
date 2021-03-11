@@ -9,7 +9,7 @@ int main()
 { 
   
     // prints hello world 
-    printf("Hello World, I am Duong"); 
+    printf("Hello World"); 
   
     return 0; 
 } 
